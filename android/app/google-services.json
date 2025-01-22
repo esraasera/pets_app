@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913479154674",
+    "project_id": "israa-2",
+    "storage_bucket": "israa-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913479154674:android:9321d5a11224fea3ed096b",
+        "android_client_info": {
+          "package_name": "com.example.my_pets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfm_HegUtLHr_seBBJhReK5mByXuOd0FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913479154674:android:f08d88ef865ff0feed096b",
+        "android_client_info": {
+          "package_name": "com.example.your_pets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfm_HegUtLHr_seBBJhReK5mByXuOd0FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
